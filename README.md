@@ -3,7 +3,7 @@
 
 
 
-Exploratory Data Analysis (EDA) is an approach to extract the information enfolded in the data and summarize the main characteristics of the data.
+1: Exploratory Data Analysis (EDA) is an approach to extract the information enfolded in the data and summarize the main characteristics of the data.
 
 
 
@@ -20,4 +20,10 @@ In this, we are going to work on a data visualization challenge to analyse and v
 Dataset Source:Kaggle
 
 Tools : PowerBi
+
+
+2: Job Assesment 
+
+project :Creating a PowerBi dashboard 
+
 
